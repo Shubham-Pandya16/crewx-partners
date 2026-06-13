@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "914489466249",
+    "project_id": "crewx-1",
+    "storage_bucket": "crewx-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914489466249:android:a7d72cebc450ed75061558",
+        "android_client_info": {
+          "package_name": "com.shubhampandya.crewx.crewx_partner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaIjFerDYprQSVQaPMfgRJGBB0hDDPhsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914489466249:android:d10a4b0a96696d2b061558",
+        "android_client_info": {
+          "package_name": "com.shubhampandya.crewx.crewx_volunteer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaIjFerDYprQSVQaPMfgRJGBB0hDDPhsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
